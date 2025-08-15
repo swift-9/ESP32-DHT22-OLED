@@ -1,5 +1,20 @@
 # 🌡️ ESP32 DHT22 OLED Display
 
+<div align="center">
+  <h1>🌡️ ESP32 + DHT22 + OLED Display</h1>
+  <p><i>Real-time temperature & humidity monitoring on an OLED screen</i></p>
+  
+  <br />
+  
+  <div>
+    <img src="https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+    <img src="https://img.shields.io/badge/-Arduino IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
+    <img src="https://img.shields.io/badge/-DHT22 Sensor-F9A825?style=for-the-badge" alt="DHT22" />
+    <img src="https://img.shields.io/badge/-OLED Display-4B0082?style=for-the-badge" alt="OLED Display" />
+    <img src="https://img.shields.io/badge/-Adafruit Libraries-FF5733?style=for-the-badge" alt="Adafruit" />
+  </div>
+</div>
+
 An **ESP32-based IoT project** that reads **temperature** 🌡️ and **humidity** 💧 from a **DHT22 sensor** and displays them in real-time on a crisp **0.96" OLED display** 📺.
 
 ---
