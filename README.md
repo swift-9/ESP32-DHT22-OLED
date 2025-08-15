@@ -69,7 +69,7 @@ An **ESP32-based IoT project** that reads **temperature** 🌡️ and **humidity
 
 ## 📄 Sketch
 
-This project is licensed under the MIT License — feel free to modify and share.
+## <div><img src="sketch.png" alt="Screenshot" /></div>
 
 ---
 
