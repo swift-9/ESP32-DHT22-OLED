@@ -1,7 +1,7 @@
-# 🌡️ ESP32 DHT22 OLED Display
+
 
 <div align="center">
-  <h1>🌡️ ESP32 + DHT22 + OLED Display</h1>
+  <h1>🌡️ ESP32 DHT22 OLED Display
   <p><i>Real-time temperature & humidity monitoring on an OLED screen</i></p>
   
   <br />
