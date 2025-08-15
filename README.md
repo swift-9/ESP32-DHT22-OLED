@@ -65,8 +65,8 @@ An **ESP32-based IoT project** that reads **temperature** 🌡️ and **humidity
 ## 📷 Demo
   - ***Wokwi Demo*** = https://wokwi.com/projects/439332029392918529
 ## <div><img src="s1.jpg" alt="Screenshot" /></div>
-## <div><img src="s2.jpg" alt="Screenshot" /></div>
 ## <div><img src="s3.jpg" alt="Screenshot" /></div>
+## <div><img src="s2.jpg" alt="Screenshot" /></div>
 
 ---
 
