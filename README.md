@@ -69,7 +69,7 @@ An **ESP32-based IoT project** that reads **temperature** 🌡️ and **humidity
 
 ## 📄 Sketch
 
-## <div><img src="sketch.png" alt="sketch" /></div>
+## <div><img src="Sketch.png" alt="sketch" /></div>
 
 ---
 
